@@ -43,4 +43,4 @@ Para rodar o script `main.py` no Jupyter Notebook, siga estes passos:
 4. **Verificar Saídas e Visualizações**: Após a execução, os resultados das análises e os gráficos gerados serão exibidos diretamente no Jupyter Notebook.
 
 
-#### Projeto desenvolvido por: Cleverson Alves da Silva Junior
+#### Desenvolvido por Cleverson Alves da Silva Junior.
